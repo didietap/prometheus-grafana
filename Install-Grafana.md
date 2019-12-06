@@ -9,7 +9,8 @@ $ sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
 ```
 
 ## Refresh APT cache to updatepackage lists
-```$ sudo apt update
+```
+$ sudo apt update
 ```
 ## Install grafana
 ```
