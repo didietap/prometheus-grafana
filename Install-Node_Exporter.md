@@ -29,6 +29,7 @@ ExecStart=/usr/local/bin/node_exporter
 
 [Install]
 WantedBy=multi-user.target
+EOF
 ```
 
 ## Reload the system daemon and start the node exporter service.
