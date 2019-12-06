@@ -40,7 +40,7 @@ $ sudo systemctl start node_exporter
 
 ## Check the node exporter status.
 ```
-sudo systemctl status node_exporter
+$ sudo systemctl status node_exporter
 ```
 
 ## Enable the node exporter service to the system startup.
