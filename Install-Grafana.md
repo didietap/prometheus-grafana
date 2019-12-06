@@ -29,5 +29,6 @@ $ sudo systemctl status grafana-server
 
 ## enable the service to automatically start Grafana on boot:
 ```
+$ sudo systemctl daemon-reload
 $ sudo systemctl enable grafana-server
 ```
